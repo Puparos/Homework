@@ -155,12 +155,13 @@
 .e-mail {
     width: 41%;
     float: left;
-    height: 40px;
+    height: 45px;
     font-size: 14px;
     padding: 0 15px;
     font-weight: 200;
     line-height: 42px;
     background-color: #fff;
+    border: 0;
 }
 .button {
     width: 46%;
@@ -174,6 +175,7 @@
     cursor: pointer;
     line-height: 1.2em;
     font-weight: 400;
+    border: 0;
 }
 .plain {
     height: 45px;
