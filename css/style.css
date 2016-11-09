@@ -14,13 +14,12 @@
     text-align: center;
 }
 .title {
-    text-align: center;
+    font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
     margin: 115px 0 75px;
     color: #1b304f;
     font-size: 36px;
     font-weight: 300;
-    font-family: 'Open Sans', sans-serif;
     display: block;
 }
 .title span {
@@ -41,7 +40,6 @@
     width: 212px;
     height: 263px;
     display: inline-block;
-    text-align: center;
     vertical-align: top;
 }
 .step-number {
@@ -49,12 +47,12 @@
     font-size: 24px;
     font-weight: 700;
     display: block;
-    text-align: center;
     line-height: 24px;
     margin-bottom: 15px;
 }
 .description-step {
     color: #1b304f;
+    font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     font-weight: 300;
     text-align: center;
@@ -65,7 +63,6 @@
     width: 212px;
     height: 84px;
     display: block;
-    font-family: 'Open Sans', sans-serif;
 }
 .arrow-right {
     background: 0 35px no-repeat  url("../img/arrow-right.svg");
@@ -103,12 +100,12 @@
 }
 .description-email {
     color: #1b304f;
+    font-family: 'Open Sans', sans-serif;
     font-size: 36px;
     font-weight: 300;
     line-height: 120%;
     text-align: center;
     position: relative;
-    font-family: 'Open Sans', sans-serif;
     height: 86px;
     width: 530px;
     margin: 55px auto 0;
@@ -129,19 +126,19 @@
     margin: 0;
 }
 .email-form {
-    padding: 20px;
     background-color: rgb(0, 177, 221);
     width: 460px;
     height: 108px;
     display: block;
     margin: 0 auto 185px;
+    padding: 20px;
 }
 .form-title {
     padding-right: 50px;
+    margin: 0;
     font-size: 20px;
     font-weight: 700;
     color: #fff;
-    margin: 0;
 }
 .form-description {
     color: #fff;
@@ -149,29 +146,29 @@
     line-height: 16px;
 }
 .e-mail {
-    width: 41%;
-    float: left;
-    height: 45px;
-    font-size: 14px;
-    padding: 0 15px;
-    font-weight: 200;
-    line-height: 42px;
     background-color: #fff;
     border: 0;
+    padding: 0 15px;
+    height: 45px;
+    width: 41%;
+    float: left;
+    font-size: 14px;
+    font-weight: 200;
+    line-height: 42px;
 }
 .button {
-    width: 46%;
-    float: right;
-    height: 45px;
-    font-size: 14px;
     background-color: #f79421;
-    color: #fff;
+    width: 46%;
+    height: 45px;
     border-radius: 4px;
-    text-align: center;
-    cursor: pointer;
-    line-height: 1.2em;
-    font-weight: 400;
     border: 0;
+    float: right;
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    line-height: 1.2em;
+    cursor: pointer;
 }
 .plain {
     height: 45px;
@@ -181,26 +178,26 @@
     margin-left: 380px;
 }
 .message {
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
     font-size: 36px;
     font-weight: 300;
     color: #fff;
     line-height: 120%;
     text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
     height: 129px;
-    display: block;
     width: 750px;
     margin: 0 auto;
+    display: block;
 }
 .message span {
     font-weight: 700;
 }
 .footer {
-    height: 95px;
     background: #1ba6d2;
     text-align: center;
     width: 100%;
+    height: 95px;
     padding: 0;
 }
 .logo {
