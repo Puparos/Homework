@@ -35,7 +35,6 @@
     margin: 0 auto 35px;
     border-radius: 50%;
     border: 3px solid #1ba6d2;
-    position: relative;
     display: block;
 }
 .step {
@@ -82,7 +81,6 @@
     margin: 0 auto 35px;
     border-radius: 50%;
     border: 3px solid #1ba6d2;
-    position: relative;
     display: block;
 }
 .step-img-3 {
@@ -92,7 +90,6 @@
     margin: 0 auto 35px;
     border-radius: 50%;
     border: 3px solid #1ba6d2;
-    position: relative;
     display: block;
 }
 .step-img-4 {
@@ -102,7 +99,6 @@
     margin: 0 auto 35px;
     border-radius: 50%;
     border: 3px solid #1ba6d2;
-    position: relative;
     display: block;
 }
 .description-email {
@@ -183,7 +179,6 @@
     background:no-repeat url("../img/plain.svg");
     margin-top: -34px;
     margin-left: 380px;
-    position: absolute;
 }
 .sky-message {
     text-align: center;
